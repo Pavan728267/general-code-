@@ -1,3 +1,4 @@
 >>>>to launch instance with ssh connection with multiple slave/ worker node.
+in user data in AWS
 #!/bin/bash
 echo "idrsa.pub" >>/home/ubuntu/.ssh/autorised_key
