@@ -1,0 +1,3 @@
+>>>>to launch instance with ssh connection with multiple slave/ worker node.
+#!/bin/bash
+echo "idrsa.pub" >>/home/ubuntu/.ssh/autorised_key
